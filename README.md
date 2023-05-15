@@ -1,8 +1,8 @@
 # vue-crash-app
-# This is a sample TODO list App with Vue Js Framework.
-# This project has frontend Single Page Web App and Json server Implementation as Backend to manage TODOs.
-# Use **"npm run serve"** to run the Web App on localhot and Use **"npm run backend"** to run Backend Json server on seperare terminal.
-# Use Diff localhost port as per your systems port availabality.
+This is a sample TODO list App with Vue Js Framework.
+This project has frontend Single Page Web App and Json server Implementation as Backend to manage TODOs.
+Use **"npm run serve"** to run the Web App on localhot and Use **"npm run backend"** to run Backend Json server on seperare terminal.
+Use Diff localhost port as per your systems port availabality.
 
 ## Project setup
 ```
